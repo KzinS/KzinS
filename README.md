@@ -1,5 +1,5 @@
 # About Me 🐍
-Hello, My Name is Khalil ( also Known as KZ, or Kzin online). I Write code to make my life easier.
+Hello, My Name is Kzin (also go by KZ online). I Write code to make my life easier.
 
 Studying a similar branch to Computer Science, Called Practical Informatics.
 
